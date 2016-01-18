@@ -1,5 +1,5 @@
 How to install webshelf
------------------------
+------------------------
 
 - Please use release-versions only!
 - Unpack the  archive
